@@ -1,0 +1,6 @@
+bsp.c:19:6:bspInit	8	static
+bsp.c:29:6:delay	16	static
+bsp.c:34:10:millis	8	static
+bsp.c:55:6:SystemClock_Config	72	static
+bsp.c:91:13:MX_GPIO_Init	4	static
+bsp.c:119:6:Error_Handler	4	static

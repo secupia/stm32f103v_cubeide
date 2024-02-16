@@ -1,0 +1,7 @@
+uart.c:25:6:uartInit	16	static
+uart.c:36:6:uartOpen	24	static
+uart.c:91:10:uartAvailable	24	static
+uart.c:111:9:uartRead	24	static
+uart.c:130:10:uartWrite	32	static
+uart.c:155:10:uartPrintf	292	static
+uart.c:173:10:uartGetBaud	24	static

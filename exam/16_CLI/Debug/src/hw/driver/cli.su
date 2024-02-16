@@ -1,0 +1,11 @@
+cli.c:85:6:cliInit	8	static
+cli.c:101:6:cliOpen	16	static
+cli.c:111:6:cliOpenLog	24	static
+cli.c:127:6:cliLogClose	4	static
+cli.c:133:6:cliShowLog	24	static
+cli.c:153:6:cliShowPrompt	16	static
+cli.c:159:6:cliMain	8	static
+cli.c:174:6:cliUpdate	56	static
+cli.c:384:6:cliLineClean	16	static
+cli.c:392:6:cliLineAdd	24	static
+cli.c:407:6:cliLineChange	40	static
